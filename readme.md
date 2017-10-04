@@ -22,7 +22,7 @@ So I have selected html id `kayes` in `kayes_id`. Now I can write anything insid
 ~~~js
 kayes_id.innerHTML = 'some text written in html using js';
 ~~~
-We just output only some text. We can pass any html as well. One thing you have to keep in mind its a  `js` file. Its not `html` file. So all your html code actually string. I mean you have to write inside double or single quote. go with only one. Never mix double quote with single quote. Other wise you will be confused. Here I have used single quote.   
+We just output only some text. We can pass any html as well. One thing you have to keep in mind it's a  `js` file. It's not `html` file. So all your html code actually string. I mean you have to write inside double or single quote. go with only one. Never mix double quote with single quote. Other wise you will be confused. Here I have used single quote.   
 Now I out put some html content   
 ~~~js
 kayes_id.innerHTML = '<h1>First Heading from js.</h1>';
