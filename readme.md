@@ -50,7 +50,7 @@ var content = content + '</ul>';
 
 kayes_id.innerHTML = content;
 ~~~  
-Here I have write a heading, paragraph, and un-ordered list using help of variable. I can write whole html content in one line but I used some `string concatenation` help. First I assign some content to `content` variable. Then in next line I add new content with previous content and assign to content variable.
+Here I have write a heading, paragraph, and un-ordered list using help of variable. I can write whole html content in one line but I used some `string concatenation` help. First I assign some content to `content` variable. Then in next line I add new content with previous content and assign to `content` variable.
 
 In some case we may show value from some variable in our html content. 
 
