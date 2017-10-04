@@ -88,7 +88,7 @@ var content = content + '</ul>';
 kayes_id.innerHTML = content;
 ~~~  
 
-Here Insted of manually extracting value from array I have used `for` loop. Which will iterate 3 times.    
+Here Insted of manually extracting value from array, we dynamically extract array value using `for` loop. Which will iterate 3 times.    
 Here we told to `for loop` to iterate 3 times for getting output value 0, 1, 2. When our array length is increased we have to increse condition manually. Which is not efficient. So we can refactor our `for` loop using `array.length` helper.
 
 ~~~js
