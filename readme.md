@@ -35,7 +35,7 @@ kayes_id.innerHTML = heading;
 ~~~
 
 State above code we assign `'<h1>First Heading from js</h1>'` to `heading` variable. So now we can write `kayes_id.innerHTML = heading;`.     
-How actually variable will help me we will be understad by following code.
+How actually variable will help us, we will be understad by following code.
 
 ~~~js
 var content = '<h1>First Heading from js.</h1>';
