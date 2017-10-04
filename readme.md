@@ -97,7 +97,7 @@ for (var i = 0; i < fruits.length; i++ ) {
 }
 ~~~
 
-Please go with step by step. Do at least 2 hours practice at home. If we are not understand this we won't understand tommorow class. Which evntually kill our precise time. 
+Please go with step by step. Do at least 2 hours practice at home. If we are not understand today class, we won't understand tommorow class. Which evntually kill our precise time. 
 
 
 
