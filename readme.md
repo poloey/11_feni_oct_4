@@ -4,9 +4,9 @@
 # Document Object Model (DOM) - Web API
 
 ###  Notice about this page   
-if you get any Error or typo in this page, please let me know so that, I can correct this page. Please go through class 10 again and again since, that class I have introduced programming using javaScript. Which is foundation of javascript or any other programming language
+If you get any Error or typo in this page, please let me know so that, I can correct this page. Please go through class 10 again and again since, in that class I have introduced programming using javaScript. Which is foundation of javascript or any other programming language.
 
-## how to write something in html page through js
+## How to write something in html page through js
 We can write content inside `html document` through javaScript in lot of ways. Today I have showed how can we write something in html page using `id` selector.     
 first create a `id`  inside `html` file. Let id name is `kayes`
 
@@ -109,13 +109,5 @@ content += 'New Content';
 So If we use `+=` shorthand operator we write less code for same functionality.   
 
 Please go with step by step. Do at least 2 hours practice at home. If we are not understand today class, we won't understand tommorow class. Which evntually kill our precise time. 
-
-
-
-
-
-
-
-
 
 
