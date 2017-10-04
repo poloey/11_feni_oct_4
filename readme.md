@@ -70,8 +70,8 @@ var content = content + '</ul>';
 
 kayes_id.innerHTML = content;
 ~~~  
-From state above code we will get same output But here we have getting list value from variable `fruits`.
-We can dynamically generate '<li>' using for each loop. We need loop only `0 - 2`. Since our array length is 3. So we can refactor our code by following  
+From state above code we will get same output But here we have getting list value from variable `fruits`.     
+We can dynamically generate `<li>` using for each loop. We need loop only `0 - 2`. Since our array length is 3. So we can refactor our code by following  
 
 ~~~js
 var fruits = ['Apple', 'Orange', 'Banana'];
