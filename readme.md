@@ -100,7 +100,16 @@ for (var i = 0; i < fruits.length; i++ ) {
 }
 ~~~
 
+In string concatenation every time  we use `content = previouse_conent + new_content`. We can make it short by usign `+=` operator. 
+~~~js
+content = content + 'New content';
+or 
+content += 'New Content';
+~~~
+So If we use `+=` shorthand operator we will be write less code for same functionality.   
+
 Please go with step by step. Do at least 2 hours practice at home. If we are not understand today class, we won't understand tommorow class. Which evntually kill our precise time. 
+
 
 
 
