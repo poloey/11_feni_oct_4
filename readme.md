@@ -17,7 +17,7 @@ first create a `id`  inside `html` file. Let id name is `kayes`
 var kayes_id = document.getElementById('kayes');
 ~~~    
 
-So I have selected html id `kayes' in `kayes_id`. Now I can write anything inside `kayes_id` using `innerHTML`.  
+So I have selected html id `kayes` in `kayes_id`. Now I can write anything inside `kayes_id` using `innerHTML`.  
 
 ~~~js
 kayes_id.innerHTML = 'some text written in html using js';
