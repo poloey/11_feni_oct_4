@@ -31,7 +31,7 @@ Now I out put some html content
 kayes_id.innerHTML = '<h1>First Heading from js.</h1>';
 ~~~
 
-So we write some heading content in side kayes_id. We can write content using variable help when we needed. 
+So we write some heading content in side kayes_id. We can write content using variable when we needed. 
 ~~~js
 var heading = '<h1>First Heading from js.</h1>';
 kayes_id.innerHTML = heading;
@@ -74,7 +74,7 @@ var content = content + '</ul>';
 kayes_id.innerHTML = content;
 ~~~  
 From state above code we will get same output But here we have getting list value from variable `fruits`.     
-We can dynamically generate `<li>` using for each loop. We need loop only `0 - 2`. Since our array length is 3. So we can refactor our code by following  
+We can dynamically generate `<li>` using for loop. We need loop only `0 - 2`. Since our array length is 3. So we can refactor our code by following  
 
 ~~~js
 var fruits = ['Apple', 'Orange', 'Banana'];
