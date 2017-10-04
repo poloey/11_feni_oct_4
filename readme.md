@@ -2,7 +2,7 @@
 ### View [all class list](https://github.com/poloey/feni)
 
 ###  Notice about this page   
-if you get any Error or typo in this page. please let me know I will correct this for you. Please go through class 10 again and again since, that class I have introduced programming using javaScript. Which is foundation of javascript
+if you get any Error or typo in this page. please let me know so that, I can correct this page. Please go through class 10 again and again since, that class I have introduced programming using javaScript. Which is foundation of javascript or any other programming language
 
 ## how to write something in html page through js
 We can write content inside `html document` through javaScript in lot of ways. Today I have showed how can we write something in html page using `id` selector.     
