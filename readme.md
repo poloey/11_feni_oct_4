@@ -4,7 +4,7 @@
 if you get any Error or typo in this page. please let me know I will correct this for you.    
 
 ## how to write something in html page through js
-you can write content inside `html document` through javaScript in lot of ways. Today I have showed how can we write something in html page using `id` selector.     
+We can write content inside `html document` through javaScript in lot of ways. Today I have showed how can we write something in html page using `id` selector.     
 first create a `id`  inside `html` file. Let id name is `kayes`
 
 ~~~html
@@ -22,7 +22,7 @@ So I have selected html id `kayes` in `kayes_id`. Now I can write anything insid
 ~~~js
 kayes_id.innerHTML = 'some text written in html using js';
 ~~~
-We just output only some text. We can pass any html as well. One thing you have to keep in mind it's a  `js` file. It's not `html` file. So all your html code actually string. I mean you have to write inside double or single quote. go with only one. Never mix double quote with single quote. Other wise you will be confused. Here I have used single quote.   
+We just output only some text. We can pass any html as well. One thing we have to keep in mind it's a  `js` file. It's not `html` file. So all our html code actually string. I mean we have to write inside double or single quote. Go with only one. Never mix double quote with single quote. Other wise we  will be confused. Here I have used single quote.   
 Now I out put some html content   
 ~~~js
 kayes_id.innerHTML = '<h1>First Heading from js.</h1>';
@@ -35,7 +35,7 @@ kayes_id.innerHTML = heading;
 ~~~
 
 State above code we assign `'<h1>First Heading from js</h1>'` to `heading` variable. So now we can write `kayes_id.innerHTML = heading;`.     
-How actually variable will help me you will be understad by following code.
+How actually variable will help me we will be understad by following code.
 
 ~~~js
 var content = '<h1>First Heading from js.</h1>';
@@ -97,7 +97,7 @@ for (var i = 0; i < fruits.length; i++ ) {
 }
 ~~~
 
-Please go with step by step. Do at least 2 hours practice at home. If you are not understand this you won't understand tommorow class. Which evntually kill your and mine precise time. 
+Please go with step by step. Do at least 2 hours practice at home. If we are not understand this we won't understand tommorow class. Which evntually kill our precise time. 
 
 
 
