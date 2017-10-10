@@ -1,5 +1,6 @@
 # Class 11 
-### View [all class list](https://github.com/poloey/feni)
+### View [all class list](https://poloey.github.io/feni/)
+
 
 # Document Object Model (DOM) - Web API
 
