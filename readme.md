@@ -1,6 +1,5 @@
+# [:house: Feni Batch Home Page](http://poloey.github.io/feni)
 # Class 11 
-### View [all class list](https://poloey.github.io/feni/)
-
 
 # Document Object Model (DOM) - Web API
 
